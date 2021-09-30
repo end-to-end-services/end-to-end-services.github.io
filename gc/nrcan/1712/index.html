@@ -12,16 +12,16 @@
     <title>Natural Resources Canada Library – How many government services are available online end-to-end?</title>
 
 <meta property="og:title" content="Natural Resources Canada Library" />
-<meta property="og:description" content="" />
+<meta property="og:description" content="The Natural Resources Canada Library service from Natural Resources Canada is not available end-to-end online, according to the GC Service Inventory." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://example.org/gc/nrcan/1712/" /><meta property="article:section" content="services" />
+<meta property="og:url" content="https://end-to-end-services.github.io/gc/nrcan/1712/" /><meta property="article:section" content="services" />
 
 
 
 
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Natural Resources Canada Library"/>
-<meta name="twitter:description" content=""/>
+<meta name="twitter:description" content="The Natural Resources Canada Library service from Natural Resources Canada is not available end-to-end online, according to the GC Service Inventory."/>
 
 
     
@@ -55,7 +55,7 @@
 <section class="breadcrumbs">
     <div class="container">
         <ul class="list-inline">
-            <li class="list-inline-item"><a href="/">All departments and agencies</a> &nbsp;&nbsp;&raquo;</li>
+            <li class="list-inline-item"><a href="/#departments">All departments and agencies</a> &nbsp;&nbsp;&raquo;</li>
             <li class="list-inline-item"><a href="/gc/nrcan/">Natural Resources Canada</a></li>
         </ul>
     </div>
@@ -124,6 +124,25 @@ Via the Federal Science Library Portal, clients can: •Find articles and other 
         $('.jquery-data-table').DataTable();
     } );
 </script>
+
+<script>
+    
+    
+    function externalLinks() {
+      for(var c = document.getElementsByTagName("a"), a = 0;a < c.length;a++) {
+        var b = c[a];
+        b.getAttribute("href") && b.hostname !== location.hostname && (b.target = "_blank")
+      }
+    }
+    ;
+  
+    (function () {
+      externalLinks();
+    })(); 
+  </script>
+  
+
+
 
 </body>
 </html>

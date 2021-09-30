@@ -12,16 +12,16 @@
     <title>Canadian Institutes of Health Research – How many government services are available online end-to-end?</title>
 
 <meta property="og:title" content="Canadian Institutes of Health Research" />
-<meta property="og:description" content="" />
+<meta property="og:description" content="20% of the services provided by Canadian Institutes of Health Research are available end-to-end online. 1 are available online, and 4 are not available online." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://example.org/gc/cihr/" /><meta property="article:section" content="departments" />
+<meta property="og:url" content="https://end-to-end-services.github.io/gc/cihr/" /><meta property="article:section" content="departments" />
 
 
 
 
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Canadian Institutes of Health Research"/>
-<meta name="twitter:description" content=""/>
+<meta name="twitter:description" content="20% of the services provided by Canadian Institutes of Health Research are available end-to-end online. 1 are available online, and 4 are not available online."/>
 
 
     
@@ -55,7 +55,7 @@
 <section class="breadcrumbs">
     <div class="container">
         <ul class="list-inline">
-            <li class="list-inline-item"><a href="/">All departments and agencies</a></li>            
+            <li class="list-inline-item"><a href="/#departments">All departments and agencies</a></li>            
         </ul>
     </div>
 </section>
@@ -4609,6 +4609,10 @@
             </tfoot>
         </table>
 
+        <p class="mt-4">
+            <a href="/#departments">Back to the list of departments and agencies</a>
+        </p>
+
     </div>
 
 </main>
@@ -4638,6 +4642,25 @@
         $('.jquery-data-table').DataTable();
     } );
 </script>
+
+<script>
+    
+    
+    function externalLinks() {
+      for(var c = document.getElementsByTagName("a"), a = 0;a < c.length;a++) {
+        var b = c[a];
+        b.getAttribute("href") && b.hostname !== location.hostname && (b.target = "_blank")
+      }
+    }
+    ;
+  
+    (function () {
+      externalLinks();
+    })(); 
+  </script>
+  
+
+
 
 </body>
 </html>

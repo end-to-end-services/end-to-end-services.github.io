@@ -14,7 +14,7 @@
 <meta property="og:title" content="Categories" />
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="http://example.org/categories/" />
+<meta property="og:url" content="https://end-to-end-services.github.io/categories/" />
 
 
 <meta name="twitter:card" content="summary"/>
@@ -58,11 +58,11 @@
     <div class="container">
         <div class="row mt-4 mb-4">
             <div class="col-md-2 themed-grid-col">
-                <p class="main-lead-percent badge badge-warning">45%</p>
+                <p class="main-lead-percent badge  badge-warning ">45%</p>
             </div>
             <div class="col-md-6 themed-grid-col">
                 
-                <p class="main-lead-description"><b>500</b> of the <b>1117</b> externally-facing services in the GC Service Inventory are online from end-to-end.</p>
+                <p class="main-lead-description"><b>500</b> of the <b>1117</b> public-facing services <a href="#methodology">in the GC Service Inventory</a> are online from end-to-end.</p>
             </div>
             <div class="col-md-2 themed-grid-col"></div>
         </div>
@@ -680,6 +680,8 @@
     </div>
 
     <div class="container">
+        <h2 id="methodology" class="mt-5">Methodology</h2>
+
         
     </div>
 
@@ -711,6 +713,25 @@
         $('.jquery-data-table').DataTable();
     } );
 </script>
+
+<script>
+    
+    
+    function externalLinks() {
+      for(var c = document.getElementsByTagName("a"), a = 0;a < c.length;a++) {
+        var b = c[a];
+        b.getAttribute("href") && b.hostname !== location.hostname && (b.target = "_blank")
+      }
+    }
+    ;
+  
+    (function () {
+      externalLinks();
+    })(); 
+  </script>
+  
+
+
 
 </body>
 </html>
