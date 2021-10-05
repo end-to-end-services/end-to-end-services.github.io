@@ -5,7 +5,11 @@
     <link>https://end-to-end-services.github.io/departments/</link>
     <description>Recent content in Departments on How many government services are available online end-to-end?</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://end-to-end-services.github.io/departments/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    
+	<atom:link href="https://end-to-end-services.github.io/departments/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Administrative Tribunals Support Service of Canada</title>
       <link>https://end-to-end-services.github.io/gc/atssc/</link>
@@ -332,10 +336,10 @@
     
     <item>
       <title>Immigration, Refugees and Citizenship Canada</title>
-      <link>https://end-to-end-services.github.io/gc/cic/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/</guid>
       <description>29% of the services provided by Immigration, Refugees and Citizenship Canada are available end-to-end online. 21 are available online, and 51 are not available online.</description>
     </item>
     

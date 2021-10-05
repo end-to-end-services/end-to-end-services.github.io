@@ -5,7 +5,11 @@
     <link>https://end-to-end-services.github.io/services/</link>
     <description>Recent content in Services on How many government services are available online end-to-end?</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://end-to-end-services.github.io/services/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    
+	<atom:link href="https://end-to-end-services.github.io/services/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Aboriginal and Treaty Rights Information System (ATRIS)</title>
       <link>https://end-to-end-services.github.io/gc/cirnac/1134/</link>
@@ -134,10 +138,10 @@
     
     <item>
       <title>Addition of a special stamp in a passport or other travel document</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1498/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1498/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1498/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1498/</guid>
       <description>The Addition of a special stamp in a passport or other travel document service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -467,10 +471,10 @@
     
     <item>
       <title>Amendments to historical records or valid Temporary Resident documents</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1503/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1503/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1503/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1503/</guid>
       <description>The Amendments to historical records or valid Temporary Resident documents service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -512,10 +516,10 @@
     
     <item>
       <title>Application for a Study Permit</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1428/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1428/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1428/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1428/</guid>
       <description>The Application for a Study Permit service from Immigration, Refugees and Citizenship Canada is available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -548,19 +552,19 @@
     
     <item>
       <title>Application for Grant of Citizenship – Adopted Individual</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1485/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1485/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1485/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1485/</guid>
       <description>The Application for Grant of Citizenship – Adopted Individual service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
       <title>Application for Grant of Citizenship – Stateless Individual with a Canadian parent</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1484/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1484/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1484/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1484/</guid>
       <description>The Application for Grant of Citizenship – Stateless Individual with a Canadian parent service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -656,10 +660,10 @@
     
     <item>
       <title>Atlantic Immigration Pilot – Application for Permanent Residence</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1523/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1523/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1523/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1523/</guid>
       <description>The Atlantic Immigration Pilot – Application for Permanent Residence service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -710,10 +714,10 @@
     
     <item>
       <title>Authorization to return to Canada</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1511/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1511/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1511/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1511/</guid>
       <description>The Authorization to return to Canada service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -1110,7 +1114,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cer/2134/</guid>
-      <description>The Canada Energy Regulator (CER)&amp;rsquo;s Emergency Response Procedures service from Canada Energy Regulator is not available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Canada Energy Regulator (CER)&amp;lsquo;s Emergency Response Procedures service from Canada Energy Regulator is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -1376,10 +1380,10 @@
     
     <item>
       <title>Canadian Experience Class – Application for Permanent Residence</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1433/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1433/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1433/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1433/</guid>
       <description>The Canadian Experience Class – Application for Permanent Residence service from Immigration, Refugees and Citizenship Canada is available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -1668,7 +1672,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/vac/1277/</guid>
-      <description>The Care and Maintenance of Veterans&#39; Graves service from Veterans Affairs Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Care and Maintenance of Veterans&amp;rsquo; Graves service from Veterans Affairs Canada is available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -1691,10 +1695,10 @@
     
     <item>
       <title>Caring for Children or for People with High Medical Needs – Application for Permanent Residence</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1438/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1438/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1438/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1438/</guid>
       <description>The Caring for Children or for People with High Medical Needs – Application for Permanent Residence service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -1826,10 +1830,10 @@
     
     <item>
       <title>Certificate of Identity</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1494/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1494/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1494/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1494/</guid>
       <description>The Certificate of Identity service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -1862,10 +1866,10 @@
     
     <item>
       <title>Certifying true copies of part of a passport or another travel document</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1500/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1500/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1500/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1500/</guid>
       <description>The Certifying true copies of part of a passport or another travel document service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -1898,19 +1902,19 @@
     
     <item>
       <title>Citizenship Education &amp; Outreach</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1490/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1490/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1490/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1490/</guid>
       <description>The Citizenship Education &amp;amp; Outreach service from Immigration, Refugees and Citizenship Canada is available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
       <title>Citizenship Grant- Application for Citizenship under Sections 5(1), 5(2), 5(4) of the Citizenship Act</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1482/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1482/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1482/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1482/</guid>
       <description>The Citizenship Grant- Application for Citizenship under Sections 5(1), 5(2), 5(4) of the Citizenship Act service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -1952,10 +1956,10 @@
     
     <item>
       <title>Client initiated request to transfer the file between offices in Canada</title>
-      <link>https://end-to-end-services.github.io/gc/cic/2107/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/2107/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/2107/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/2107/</guid>
       <description>The Client initiated request to transfer the file between offices in Canada service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -2690,10 +2694,10 @@
     
     <item>
       <title>Determination of Rehabilitation for criminality or serious criminality</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1508/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1508/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1508/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1508/</guid>
       <description>The Determination of Rehabilitation for criminality or serious criminality service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -3068,10 +3072,10 @@
     
     <item>
       <title>Electronic Travel Authorization</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1422/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1422/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1422/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1422/</guid>
       <description>The Electronic Travel Authorization service from Immigration, Refugees and Citizenship Canada is available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -3554,10 +3558,10 @@
     
     <item>
       <title>Family Class Priority – Application for Permanent Residence</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1442/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1442/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1442/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1442/</guid>
       <description>The Family Class Priority – Application for Permanent Residence service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -3644,10 +3648,10 @@
     
     <item>
       <title>Federal Internship for Newcomers Program</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1461/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1461/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1461/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1461/</guid>
       <description>The Federal Internship for Newcomers Program service from Immigration, Refugees and Citizenship Canada is available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -3698,28 +3702,28 @@
     
     <item>
       <title>Federal Self employed – Application for Permanent Residence</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1436/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1436/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1436/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1436/</guid>
       <description>The Federal Self employed – Application for Permanent Residence service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
       <title>Federal Skilled Trades – Application for Permanent Residence</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1431/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1431/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1431/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1431/</guid>
       <description>The Federal Skilled Trades – Application for Permanent Residence service from Immigration, Refugees and Citizenship Canada is available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
       <title>Federal Skilled Worker – Application for Permanent Residence</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1430/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1430/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1430/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1430/</guid>
       <description>The Federal Skilled Worker – Application for Permanent Residence service from Immigration, Refugees and Citizenship Canada is available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -3738,7 +3742,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/esdc/1371/</guid>
-      <description>The Federal Workers&#39; Compensation service from Employment and Social Development Canada is not available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Federal Workers&amp;rsquo; Compensation service from Employment and Social Development Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -4346,10 +4350,10 @@
     
     <item>
       <title>Global Assistance to Irregular Migrants</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1513/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1513/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1513/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1513/</guid>
       <description>The Global Assistance to Irregular Migrants service from Immigration, Refugees and Citizenship Canada is available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -4364,10 +4368,10 @@
     
     <item>
       <title>Global Skills Strategy – Work Permit Application</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1520/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1520/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1520/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1520/</guid>
       <description>The Global Skills Strategy – Work Permit Application service from Immigration, Refugees and Citizenship Canada is available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -4724,19 +4728,19 @@
     
     <item>
       <title>Humanitarian &amp; Compassionate – Application for Permanent Residence</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1449/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1449/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1449/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1449/</guid>
       <description>The Humanitarian &amp;amp; Compassionate – Application for Permanent Residence service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
       <title>Humanitarian Public Policy – Application for resettlement to Canada</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1451/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1451/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1451/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1451/</guid>
       <description>The Humanitarian Public Policy – Application for resettlement to Canada service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -4787,10 +4791,10 @@
     
     <item>
       <title>Immigration Loan</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1453/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1453/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1453/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1453/</guid>
       <description>The Immigration Loan service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -4922,10 +4926,10 @@
     
     <item>
       <title>In-Canada Asylum Claim</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1457/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1457/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1457/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1457/</guid>
       <description>The In-Canada Asylum Claim service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -5255,10 +5259,10 @@
     
     <item>
       <title>Interim Federal Health: Reimbursements to Health Care Professionals</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1471/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1471/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1471/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1471/</guid>
       <description>The Interim Federal Health: Reimbursements to Health Care Professionals service from Immigration, Refugees and Citizenship Canada is available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -5300,10 +5304,10 @@
     
     <item>
       <title>International Experience Canada – Application for Work Permit</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1429/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1429/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1429/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1429/</guid>
       <description>The International Experience Canada – Application for Work Permit service from Immigration, Refugees and Citizenship Canada is available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -5318,10 +5322,10 @@
     
     <item>
       <title>International Mobility Program: Opinion and Enquires to Employers</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1421/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1421/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1421/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1421/</guid>
       <description>The International Mobility Program: Opinion and Enquires to Employers service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -5489,10 +5493,10 @@
     
     <item>
       <title>IRCC Web Validation Portal – Internal (Government of Canada) and External (Provinces/Territories)</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1512/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1512/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1512/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1512/</guid>
       <description>The IRCC Web Validation Portal – Internal (Government of Canada) and External (Provinces/Territories) service from Immigration, Refugees and Citizenship Canada is available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -5507,37 +5511,37 @@
     
     <item>
       <title>Issuance of a Diplomatic Passport</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1492/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1492/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1492/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1492/</guid>
       <description>The Issuance of a Diplomatic Passport service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
       <title>Issuance of a Permanent Resident Travel Document</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1465/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1465/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1465/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1465/</guid>
       <description>The Issuance of a Permanent Resident Travel Document service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
       <title>Issuance of a Regular Passport</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1491/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1491/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1491/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1491/</guid>
       <description>The Issuance of a Regular Passport service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
       <title>Issuance of an Emergency Travel Document</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1496/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1496/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1496/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1496/</guid>
       <description>The Issuance of an Emergency Travel Document service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -5624,10 +5628,10 @@
     
     <item>
       <title>Issuance of Special Passports</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1493/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1493/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1493/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1493/</guid>
       <description>The Issuance of Special Passports service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -5903,10 +5907,10 @@
     
     <item>
       <title>Live In Caregivers – Application for Permanent Residence</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1437/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1437/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1437/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1437/</guid>
       <description>The Live In Caregivers – Application for Permanent Residence service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -6227,10 +6231,10 @@
     
     <item>
       <title>Medical Surveillance Notification</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1481/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1481/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1481/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1481/</guid>
       <description>The Medical Surveillance Notification service from Immigration, Refugees and Citizenship Canada is available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -7091,10 +7095,10 @@
     
     <item>
       <title>One-year window – Application for Permanent Residence of eligible dependants</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1454/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1454/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1454/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1454/</guid>
       <description>The One-year window – Application for Permanent Residence of eligible dependants service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -7154,10 +7158,10 @@
     
     <item>
       <title>Other Relatives – Sponsorship for Permanent Residence</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1444/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1444/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1444/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1444/</guid>
       <description>The Other Relatives – Sponsorship for Permanent Residence service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -7181,10 +7185,10 @@
     
     <item>
       <title>Parents and Grandparents – Application for Permanent Residence</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1443/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1443/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1443/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1443/</guid>
       <description>The Parents and Grandparents – Application for Permanent Residence service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -7289,10 +7293,10 @@
     
     <item>
       <title>Permanent Resident Card Renewals &amp; Replacements</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1464/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1464/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1464/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1464/</guid>
       <description>The Permanent Resident Card Renewals &amp;amp; Replacements service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -7442,10 +7446,10 @@
     
     <item>
       <title>Pre-removal Risk Assessment</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1463/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1463/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1463/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1463/</guid>
       <description>The Pre-removal Risk Assessment service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -7721,19 +7725,19 @@
     
     <item>
       <title>Proof of Citizenship</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1488/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1488/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1488/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1488/</guid>
       <description>The Proof of Citizenship service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
       <title>Protected Person &amp; Dependants – Application for Permanent Residence</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1455/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1455/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1455/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1455/</guid>
       <description>The Protected Person &amp;amp; Dependants – Application for Permanent Residence service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -7847,10 +7851,10 @@
     
     <item>
       <title>Provincial Nominees – Application for Permanent Residence</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1441/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1441/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1441/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1441/</guid>
       <description>The Provincial Nominees – Application for Permanent Residence service from Immigration, Refugees and Citizenship Canada is available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -7892,10 +7896,10 @@
     
     <item>
       <title>Provision of Interim Federal Health Program coverage to eligible beneficiaries</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1480/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1480/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1480/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1480/</guid>
       <description>The Provision of Interim Federal Health Program coverage to eligible beneficiaries service from Immigration, Refugees and Citizenship Canada is available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -8306,10 +8310,10 @@
     
     <item>
       <title>Quebec Business (Entrepreneur, Investor, Self-employed) –  Application for Permanent Residence</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1440/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1440/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1440/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1440/</guid>
       <description>The Quebec Business (Entrepreneur, Investor, Self-employed) –  Application for Permanent Residence service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -8324,10 +8328,10 @@
     
     <item>
       <title>Quebec Skilled Workers/Trades – Application for Permanent Residence</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1439/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1439/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1439/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1439/</guid>
       <description>The Quebec Skilled Workers/Trades – Application for Permanent Residence service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -8477,10 +8481,10 @@
     
     <item>
       <title>Refugee Travel Document</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1495/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1495/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1495/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1495/</guid>
       <description>The Refugee Travel Document service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -8621,19 +8625,19 @@
     
     <item>
       <title>Renunciation of Citizenship</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1487/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1487/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1487/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1487/</guid>
       <description>The Renunciation of Citizenship service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
       <title>Renunciation of Permanent Residency</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1510/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1510/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1510/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1510/</guid>
       <description>The Renunciation of Permanent Residency service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -8729,28 +8733,28 @@
     
     <item>
       <title>Resettled Refugees – Application for Permanent Residence</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1450/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1450/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1450/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1450/</guid>
       <description>The Resettled Refugees – Application for Permanent Residence service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
       <title>Resettlement Assistance Transfer Payments: Contributions to Service Provider Organizations</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1466/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1466/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1466/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1466/</guid>
       <description>The Resettlement Assistance Transfer Payments: Contributions to Service Provider Organizations service from Immigration, Refugees and Citizenship Canada is available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
       <title>Resettlement Assistance Transfer Payments: Income Support to Refugees in Canada</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1470/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1470/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1470/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1470/</guid>
       <description>The Resettlement Assistance Transfer Payments: Income Support to Refugees in Canada service from Immigration, Refugees and Citizenship Canada is available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -8819,19 +8823,19 @@
     
     <item>
       <title>Responses to queries from Authorized Representatives</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1518/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1518/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1518/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1518/</guid>
       <description>The Responses to queries from Authorized Representatives service from Immigration, Refugees and Citizenship Canada is available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
       <title>Restoration of status (In-Canada)</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1425/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1425/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1425/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1425/</guid>
       <description>The Restoration of status (In-Canada) service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -8846,10 +8850,10 @@
     
     <item>
       <title>Resumption of Citizenship</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1486/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1486/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1486/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1486/</guid>
       <description>The Resumption of Citizenship service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -8868,7 +8872,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/fja/1882/</guid>
-      <description>The Review judges&#39; conduct complaints service from Office of the Commissioner for Federal Judicial Affairs Canada is not available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Review judges&amp;rsquo; conduct complaints service from Office of the Commissioner for Federal Judicial Affairs Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -9017,10 +9021,10 @@
     
     <item>
       <title>Search of Citizenship Records</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1489/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1489/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1489/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1489/</guid>
       <description>The Search of Citizenship Records service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -9134,10 +9138,10 @@
     
     <item>
       <title>Settlement Program Transfer Payments</title>
-      <link>https://end-to-end-services.github.io/gc/cic/2132/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/2132/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/2132/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/2132/</guid>
       <description>The Settlement Program Transfer Payments service from Immigration, Refugees and Citizenship Canada is available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -9278,10 +9282,10 @@
     
     <item>
       <title>Spouse or common-law partner in Canada – Application for Permanent Residence</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1446/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1446/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1446/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1446/</guid>
       <description>The Spouse or common-law partner in Canada – Application for Permanent Residence service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -9296,10 +9300,10 @@
     
     <item>
       <title>Start-up Visa – Application for Permanent Residence</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1434/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1434/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1434/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1434/</guid>
       <description>The Start-up Visa – Application for Permanent Residence service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -9476,55 +9480,55 @@
     
     <item>
       <title>Temporary Foreign Workers – Application for Work Permit</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1420/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1420/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1420/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1420/</guid>
       <description>The Temporary Foreign Workers – Application for Work Permit service from Immigration, Refugees and Citizenship Canada is available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
       <title>Temporary Passport</title>
-      <link>https://end-to-end-services.github.io/gc/cic/2108/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/2108/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/2108/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/2108/</guid>
       <description>The Temporary Passport service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
       <title>Temporary Resident Permit</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1426/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1426/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1426/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1426/</guid>
       <description>The Temporary Resident Permit service from Immigration, Refugees and Citizenship Canada is available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
       <title>Temporary Resident Permit for Victims of Trafficking in Persons</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1427/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1427/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1427/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1427/</guid>
       <description>The Temporary Resident Permit for Victims of Trafficking in Persons service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
       <title>Temporary Resident Permit Holder – Application for Permanent Residence</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1447/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1447/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1447/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1447/</guid>
       <description>The Temporary Resident Permit Holder – Application for Permanent Residence service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
       <title>Temporary Resident Visa</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1423/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1423/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1423/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1423/</guid>
       <description>The Temporary Resident Visa service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -9557,10 +9561,10 @@
     
     <item>
       <title>The Issuance of a Danger Opinion</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1459/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1459/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1459/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1459/</guid>
       <description>The The Issuance of a Danger Opinion service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -9791,10 +9795,10 @@
     
     <item>
       <title>Verification of Status / Replacement of Immigration Document</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1501/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1501/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1501/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1501/</guid>
       <description>The Verification of Status / Replacement of Immigration Document service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
@@ -9908,19 +9912,19 @@
     
     <item>
       <title>Visa facilitation for Official Travel</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1497/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1497/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1497/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1497/</guid>
       <description>The Visa facilitation for Official Travel service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
       <title>Visitor Record (In-Canada)</title>
-      <link>https://end-to-end-services.github.io/gc/cic/1424/</link>
+      <link>https://end-to-end-services.github.io/gc/ircc/1424/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://end-to-end-services.github.io/gc/cic/1424/</guid>
+      <guid>https://end-to-end-services.github.io/gc/ircc/1424/</guid>
       <description>The Visitor Record (In-Canada) service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
