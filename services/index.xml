@@ -5,11 +5,7 @@
     <link>https://end-to-end-services.github.io/services/</link>
     <description>Recent content in Services on How many government services are available online end-to-end?</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://end-to-end-services.github.io/services/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://end-to-end-services.github.io/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aboriginal and Treaty Rights Information System (ATRIS)</title>
       <link>https://end-to-end-services.github.io/gc/cirnac/1134/</link>
@@ -1114,7 +1110,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cer/2134/</guid>
-      <description>The Canada Energy Regulator (CER)&amp;lsquo;s Emergency Response Procedures service from Canada Energy Regulator is not available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Canada Energy Regulator (CER)&amp;rsquo;s Emergency Response Procedures service from Canada Energy Regulator is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -1672,7 +1668,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/vac/1277/</guid>
-      <description>The Care and Maintenance of Veterans&amp;rsquo; Graves service from Veterans Affairs Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Care and Maintenance of Veterans&#39; Graves service from Veterans Affairs Canada is available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -3742,7 +3738,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/esdc/1371/</guid>
-      <description>The Federal Workers&amp;rsquo; Compensation service from Employment and Social Development Canada is not available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Federal Workers&#39; Compensation service from Employment and Social Development Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -8872,7 +8868,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/fja/1882/</guid>
-      <description>The Review judges&amp;rsquo; conduct complaints service from Office of the Commissioner for Federal Judicial Affairs Canada is not available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Review judges&#39; conduct complaints service from Office of the Commissioner for Federal Judicial Affairs Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
