@@ -5,7 +5,11 @@
     <link>https://end-to-end-services.github.io/services/</link>
     <description>Recent content in Services on How many government services are available online end-to-end?</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://end-to-end-services.github.io/services/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    
+	<atom:link href="https://end-to-end-services.github.io/services/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Aboriginal and Treaty Rights Information System (ATRIS)</title>
       <link>https://end-to-end-services.github.io/gc/cirnac/1134/</link>
@@ -57,7 +61,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/ic/2146/</guid>
-      <description>The Accelerated Growth Service service from Innovation, Science and Economic Development Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Accelerated Growth Service service from Innovation, Science and Economic Development Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -102,7 +106,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/nbc/25/</guid>
-      <description>The Access to the natural, historical and recreational site service from The National Battlefields Commission is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Access to the natural, historical and recreational site service from The National Battlefields Commission is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -129,7 +133,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/forces/1054/</guid>
-      <description>The Acquiring surplus equipment service from National Defence is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Acquiring surplus equipment service from National Defence is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -156,7 +160,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/2066/</guid>
-      <description>The Additions to Reserve service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Additions to Reserve service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -336,7 +340,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/996/</guid>
-      <description>The Aids to Navigation service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Aids to Navigation service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -354,7 +358,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cbsa/670/</guid>
-      <description>The Air Traveller Processing service from Canada Border Services Agency is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Air Traveller Processing service from Canada Border Services Agency is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -372,7 +376,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/tc/1668/</guid>
-      <description>The Aircraft Engineering service from Transport Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Aircraft Engineering service from Transport Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -381,7 +385,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/tc/1603/</guid>
-      <description>The Aircraft Landing – Domestic, International and Flying Training service from Transport Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Aircraft Landing – Domestic, International and Flying Training service from Transport Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -390,7 +394,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/tc/1669/</guid>
-      <description>The Aircraft Maintenance service from Transport Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Aircraft Maintenance service from Transport Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -399,7 +403,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/tc/1701/</guid>
-      <description>The Aircraft Operations and Maintenance Training service from Transport Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Aircraft Operations and Maintenance Training service from Transport Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -408,7 +412,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/tc/1598/</guid>
-      <description>The Aircraft Parking service from Transport Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Aircraft Parking service from Transport Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -426,7 +430,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/tc/1585/</guid>
-      <description>The Airport Operations and Maintenance Subsidy Program service from Transport Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Airport Operations and Maintenance Subsidy Program service from Transport Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -480,7 +484,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/2052/</guid>
-      <description>The Amendments to Schedule I of The First Nation Oil And Gas And Moneys Management Act service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Amendments to Schedule I of The First Nation Oil And Gas And Moneys Management Act service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -498,7 +502,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/tc/1605/</guid>
-      <description>The Annual Mobile Equipment Registration service from Transport Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Annual Mobile Equipment Registration service from Transport Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -525,7 +529,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cnsc/919/</guid>
-      <description>The Application for certification of exposure device operators service from Canadian Nuclear Safety Commission is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Application for certification of exposure device operators service from Canadian Nuclear Safety Commission is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -624,7 +628,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/forces/1053/</guid>
-      <description>The Assistance connecting with foreign markets service from National Defence is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Assistance connecting with foreign markets service from National Defence is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -651,7 +655,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/956/</guid>
-      <description>The Atlantic Fisheries Fund service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Atlantic Fisheries Fund service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -786,7 +790,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/2068/</guid>
-      <description>The Band Governance Management System service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Band Governance Management System service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -813,7 +817,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cirnac/2123/</guid>
-      <description>The Basic Organizational Capacity service from Crown-Indigenous Relations and Northern Affairs Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Basic Organizational Capacity service from Crown-Indigenous Relations and Northern Affairs Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -822,7 +826,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/2091/</guid>
-      <description>The BC Salmon Restoration and Innovation Fund service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The BC Salmon Restoration and Innovation Fund service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -831,7 +835,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/1814/</guid>
-      <description>The BC Tripartite and Health Systems Transformations Funding service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The BC Tripartite and Health Systems Transformations Funding service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -840,7 +844,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cra/1143/</guid>
-      <description>The Benefit Enquiries (Call Centre) service from Canada Revenue Agency is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Benefit Enquiries (Call Centre) service from Canada Revenue Agency is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -858,7 +862,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/ic/1333/</guid>
-      <description>The Bizpal service from Innovation, Science and Economic Development Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Bizpal service from Innovation, Science and Economic Development Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -894,7 +898,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/997/</guid>
-      <description>The British Columbia Aquaculture Regulatory Program – Administrative Changes service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The British Columbia Aquaculture Regulatory Program – Administrative Changes service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -903,7 +907,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/999/</guid>
-      <description>The British Columbia Aquaculture Regulatory Program – Applications for new licenses and major amendments service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The British Columbia Aquaculture Regulatory Program – Applications for new licenses and major amendments service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -912,7 +916,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/998/</guid>
-      <description>The British Columbia Aquaculture Regulatory Program – Minor Technical Amendments service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The British Columbia Aquaculture Regulatory Program – Minor Technical Amendments service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -957,7 +961,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cra/1141/</guid>
-      <description>The Business Enquiries (Call Centre) service from Canada Revenue Agency is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Business Enquiries (Call Centre) service from Canada Revenue Agency is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -1047,7 +1051,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/acoa/716/</guid>
-      <description>The Canada Business Network service from Atlantic Canada Opportunities Agency is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Canada Business Network service from Atlantic Canada Opportunities Agency is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -1110,7 +1114,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cer/2134/</guid>
-      <description>The Canada Energy Regulator (CER)&amp;rsquo;s Emergency Response Procedures service from Canada Energy Regulator is not available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Canada Energy Regulator (CER)&amp;lsquo;s Emergency Response Procedures service from Canada Energy Regulator is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -1326,7 +1330,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/nrcan/1674/</guid>
-      <description>The Canadian Certified Reference Materials Project service from Natural Resources Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Canadian Certified Reference Materials Project service from Natural Resources Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -1353,7 +1357,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/rcmp/930/</guid>
-      <description>The Canadian Criminal Real Time Identification Services (CCRTIS) –  Accreditation Services service from Royal Canadian Mounted Police is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Canadian Criminal Real Time Identification Services (CCRTIS) –  Accreditation Services service from Royal Canadian Mounted Police is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -1443,7 +1447,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/pwgsc/905/</guid>
-      <description>The Canadian General Standards Board service from Public Services and Procurement Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Canadian General Standards Board service from Public Services and Procurement Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -1479,7 +1483,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/ic/2080/</guid>
-      <description>The Canadian Industry Statistics service from Innovation, Science and Economic Development Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Canadian Industry Statistics service from Innovation, Science and Economic Development Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -1497,7 +1501,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/rcmp/935/</guid>
-      <description>The Canadian Police College service from Royal Canadian Mounted Police is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Canadian Police College service from Royal Canadian Mounted Police is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -1515,7 +1519,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/gac/1695/</guid>
-      <description>The Canadian sanctions service from Global Affairs Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Canadian sanctions service from Global Affairs Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -1524,7 +1528,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/ec/2031/</guid>
-      <description>The Canadian Shellfish Sanitation Program (Emergency (bi-valve) shellfish area closure recommendations) service from Environment and Climate Change Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Canadian Shellfish Sanitation Program (Emergency (bi-valve) shellfish area closure recommendations) service from Environment and Climate Change Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -1551,7 +1555,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/gac/1861/</guid>
-      <description>The Canadian Technology Accelerators service from Global Affairs Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Canadian Technology Accelerators service from Global Affairs Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -1560,7 +1564,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/hc/766/</guid>
-      <description>The Canadian Thalidomide Survivors Support Program service from Health Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Canadian Thalidomide Survivors Support Program service from Health Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -1587,7 +1591,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/hc/1958/</guid>
-      <description>The Cannabis Information Line service from Health Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Cannabis Information Line service from Health Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -1605,7 +1609,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/hc/1960/</guid>
-      <description>The Cannabis Police Services service from Health Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Cannabis Police Services service from Health Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -1659,7 +1663,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/osfi/1326/</guid>
-      <description>The Capital Model Approvals service from Office of the Superintendent of Financial Institutions Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Capital Model Approvals service from Office of the Superintendent of Financial Institutions Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -1668,7 +1672,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/vac/1277/</guid>
-      <description>The Care and Maintenance of Veterans&#39; Graves service from Veterans Affairs Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Care and Maintenance of Veterans&amp;rsquo; Graves service from Veterans Affairs Canada is available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -1839,7 +1843,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/hc/874/</guid>
-      <description>The Certificate of Pharmaceutical Product (CPP) and Good Manufacturing Practices (GMP) Certificates service from Health Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Certificate of Pharmaceutical Product (CPP) and Good Manufacturing Practices (GMP) Certificates service from Health Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -1929,7 +1933,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/hc/1963/</guid>
-      <description>The Class B Precursor Registrations (New, Renewals, Amendments, Closures) service from Health Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Class B Precursor Registrations (New, Renewals, Amendments, Closures) service from Health Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -1938,7 +1942,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/ic/1301/</guid>
-      <description>The Clean Growth Hub service from Innovation, Science and Economic Development Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Clean Growth Hub service from Innovation, Science and Economic Development Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -1947,7 +1951,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/infrastructure/1776/</guid>
-      <description>The Clean Water and Wastewater Fund (CWWF) service from Infrastructure Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Clean Water and Wastewater Fund (CWWF) service from Infrastructure Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -2100,7 +2104,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/nbc/29/</guid>
-      <description>The Commemoration program service from The National Battlefields Commission is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Commemoration program service from The National Battlefields Commission is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -2226,7 +2230,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/chrc/1173/</guid>
-      <description>The Compliance Audit – Employment Equity service from Canadian Human Rights Commission is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Compliance Audit – Employment Equity service from Canadian Human Rights Commission is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -2235,7 +2239,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/hc/1951/</guid>
-      <description>The Compliance Promotion Activities service from Health Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Compliance Promotion Activities service from Health Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -2289,7 +2293,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/gac/1856/</guid>
-      <description>The Consular Assistance and Services for Canadians Abroad service from Global Affairs Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Consular Assistance and Services for Canadians Abroad service from Global Affairs Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -2298,7 +2302,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cirnac/2125/</guid>
-      <description>The Consultation and Policy Development service from Crown-Indigenous Relations and Northern Affairs Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Consultation and Policy Development service from Crown-Indigenous Relations and Northern Affairs Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -2307,7 +2311,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cirnac/1136/</guid>
-      <description>The Consultation Protocols and Resource Centres service from Crown-Indigenous Relations and Northern Affairs Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Consultation Protocols and Resource Centres service from Crown-Indigenous Relations and Northern Affairs Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -2325,7 +2329,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/2062/</guid>
-      <description>The Contaminated Sites On-Reserve Program service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Contaminated Sites On-Reserve Program service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -2334,7 +2338,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/rcmp/192/</guid>
-      <description>The Contract Policing service from Royal Canadian Mounted Police is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Contract Policing service from Royal Canadian Mounted Police is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -2379,7 +2383,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/hc/1962/</guid>
-      <description>The Controlled Drugs Import and Export Permitting service from Health Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Controlled Drugs Import and Export Permitting service from Health Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -2388,7 +2392,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/hc/1961/</guid>
-      <description>The Controlled Drugs Licensing (New, Renewal, Amendments and Closures) service from Health Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Controlled Drugs Licensing (New, Renewal, Amendments and Closures) service from Health Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -2424,7 +2428,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/osfi/1249/</guid>
-      <description>The Copies of Corporate Documents and Certificates service from Office of the Superintendent of Financial Institutions Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Copies of Corporate Documents and Certificates service from Office of the Superintendent of Financial Institutions Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -2496,7 +2500,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/rcmp/2138/</guid>
-      <description>The Criminal Intelligence Service Canada service from Royal Canadian Mounted Police is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Criminal Intelligence Service Canada service from Royal Canadian Mounted Police is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -2721,7 +2725,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/nrcan/1676/</guid>
-      <description>The Diesel testing and certification service from Natural Resources Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Diesel testing and certification service from Natural Resources Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -2748,7 +2752,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/gac/1836/</guid>
-      <description>The Diplomacy, Trade and Corporate Evaluations service from Global Affairs Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Diplomacy, Trade and Corporate Evaluations service from Global Affairs Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -2766,7 +2770,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/sshrc/425/</guid>
-      <description>The Direct Funding Payments service from Social Sciences and Humanities Research Council of Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Direct Funding Payments service from Social Sciences and Humanities Research Council of Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -2820,7 +2824,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/1807/</guid>
-      <description>The Disease Prevention for Healthy Child Development, Mental Wellness, and Healthy Living Including Chronic Disease Prevention and Control: Healthy Child Development Funding service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Disease Prevention for Healthy Child Development, Mental Wellness, and Healthy Living Including Chronic Disease Prevention and Control: Healthy Child Development Funding service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -2829,7 +2833,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/1808/</guid>
-      <description>The Disease Prevention for Healthy Child Development, Mental Wellness, and Healthy Living Including Chronic Disease Prevention and Control: Healthy Living Funding service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Disease Prevention for Healthy Child Development, Mental Wellness, and Healthy Living Including Chronic Disease Prevention and Control: Healthy Living Funding service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -2838,7 +2842,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/1806/</guid>
-      <description>The Disease Prevention for Healthy Child Development, Mental Wellness, and Healthy Living Including Chronic Disease Prevention and Control: Mental Wellness Funding service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Disease Prevention for Healthy Child Development, Mental Wellness, and Healthy Living Including Chronic Disease Prevention and Control: Mental Wellness Funding service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -2847,7 +2851,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/1798/</guid>
-      <description>The Disease Prevention for Healthy Child Development, Mental Wellness, and Healthy Living Including Chronic Disease Prevention and Control: Oral Health Direct Service Delivery service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Disease Prevention for Healthy Child Development, Mental Wellness, and Healthy Living Including Chronic Disease Prevention and Control: Oral Health Direct Service Delivery service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -2856,7 +2860,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/1799/</guid>
-      <description>The Disease Prevention for Healthy Child Development, Mental Wellness, and Healthy Living Including Chronic Disease Prevention and Control: Oral Health Services Funding service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Disease Prevention for Healthy Child Development, Mental Wellness, and Healthy Living Including Chronic Disease Prevention and Control: Oral Health Services Funding service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -2937,7 +2941,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/hc/879/</guid>
-      <description>The Drug Analysis Service (DAS) – Forensic analysis services service from Health Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Drug Analysis Service (DAS) – Forensic analysis services service from Health Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -2946,7 +2950,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/hc/880/</guid>
-      <description>The Drug Analysis Service (DAS) – Support services service from Health Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Drug Analysis Service (DAS) – Support services service from Health Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -2955,7 +2959,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/hc/875/</guid>
-      <description>The Drug Establishment Licensing (DEL) service from Health Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Drug Establishment Licensing (DEL) service from Health Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -3000,7 +3004,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/nrcan/1716/</guid>
-      <description>The ecoENERGY for Housing – Enquiries service from Natural Resources Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The ecoENERGY for Housing – Enquiries service from Natural Resources Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -3009,7 +3013,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/ec/977/</guid>
-      <description>The Ecological Gifts Program service from Environment and Climate Change Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Ecological Gifts Program service from Environment and Climate Change Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -3027,7 +3031,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/2112/</guid>
-      <description>The Ecosystems and Oceans Science Contribution Framework (formerly Ocean and Freshwater Science Contribution Program (OFSCP) service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Ecosystems and Oceans Science Contribution Framework (formerly Ocean and Freshwater Science Contribution Program (OFSCP) service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -3081,7 +3085,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/hc/1959/</guid>
-      <description>The Email: &lt;a href=&#34;mailto:cannabis@canada.ca&#34;&gt;cannabis@canada.ca&lt;/a&gt; service from Health Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Email: &lt;a href=&#34;mailto:cannabis@canada.ca&#34;&gt;cannabis@canada.ca&lt;/a&gt; service from Health Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -3090,7 +3094,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/1811/</guid>
-      <description>The Emergency Infrastructure Funds for Communities: Infrastructure and Capital Funding service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Emergency Infrastructure Funds for Communities: Infrastructure and Capital Funding service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -3099,7 +3103,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/1760/</guid>
-      <description>The Emergency Infrastructure Funds for Communities: On-Reserve Education Facilities Funding service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Emergency Infrastructure Funds for Communities: On-Reserve Education Facilities Funding service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -3108,7 +3112,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/1767/</guid>
-      <description>The Emergency Infrastructure Funds for Communities: On-Reserve Housing Funding service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Emergency Infrastructure Funds for Communities: On-Reserve Housing Funding service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -3117,7 +3121,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/1764/</guid>
-      <description>The Emergency Infrastructure Funds for Communities: On-Reserve Water and Wastewater Infrastructure Funding service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Emergency Infrastructure Funds for Communities: On-Reserve Water and Wastewater Infrastructure Funding service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -3126,7 +3130,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/1770/</guid>
-      <description>The Emergency Infrastructure Funds for Communities: Other Community Infrastructure Funding service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Emergency Infrastructure Funds for Communities: Other Community Infrastructure Funding service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -3144,7 +3148,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/1759/</guid>
-      <description>The Emergency Management, Crisis and Strategic Communications for Indigenous Partners: First Nations Emergency Management Funding service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Emergency Management, Crisis and Strategic Communications for Indigenous Partners: First Nations Emergency Management Funding service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -3153,7 +3157,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/tc/1604/</guid>
-      <description>The Emergency Response Services Outside Normal Operating hours service from Transport Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Emergency Response Services Outside Normal Operating hours service from Transport Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -3162,7 +3166,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/hc/725/</guid>
-      <description>The Employee Assistance Services service from Health Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Employee Assistance Services service from Health Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -3171,7 +3175,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/hc/726/</guid>
-      <description>The Employee Assistance Services: Employee Assistance Program service from Health Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Employee Assistance Services: Employee Assistance Program service from Health Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -3180,7 +3184,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/hc/754/</guid>
-      <description>The Employee Assistance Services: Informal Conflict Management Services service from Health Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Employee Assistance Services: Informal Conflict Management Services service from Health Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -3189,7 +3193,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/hc/756/</guid>
-      <description>The Employee Assistance Services: Occupational Critical Incident Stress Management (OCISM) service from Health Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Employee Assistance Services: Occupational Critical Incident Stress Management (OCISM) service from Health Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -3198,7 +3202,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/hc/751/</guid>
-      <description>The Employee Assistance Services: Specialized Organizational Services service from Health Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Employee Assistance Services: Specialized Organizational Services service from Health Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -3207,7 +3211,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/hc/753/</guid>
-      <description>The Employee Assistance Services: Trauma Services service from Health Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Employee Assistance Services: Trauma Services service from Health Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -3306,7 +3310,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/1804/</guid>
-      <description>The Ensure Clinical and Client Care is Provided to First Nation&amp;rsquo;s Children when Needed: Jordan&amp;rsquo;s Principle Direct Service Delivery service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Ensure Clinical and Client Care is Provided to First Nation&amp;rsquo;s Children when Needed: Jordan&amp;rsquo;s Principle Direct Service Delivery service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -3315,7 +3319,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/1731/</guid>
-      <description>The Enterprise Information and Records Management service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Enterprise Information and Records Management service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -3333,7 +3337,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/iaac/1718/</guid>
-      <description>The Environmental Assessment done by Substitution service from Impact Assessment Agency of Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Environmental Assessment done by Substitution service from Impact Assessment Agency of Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -3414,7 +3418,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/1036/</guid>
-      <description>The Environmental Response service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Environmental Response service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -3423,7 +3427,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/2065/</guid>
-      <description>The Environmental Review Process service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Environmental Review Process service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -3495,7 +3499,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/pco/1365/</guid>
-      <description>The Executive correspondence services service from Privy Council Office is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Executive correspondence services service from Privy Council Office is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -3639,7 +3643,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cirnac/2124/</guid>
-      <description>The Federal Interlocutor&amp;rsquo;s Contribution Program service from Crown-Indigenous Relations and Northern Affairs Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Federal Interlocutor&amp;rsquo;s Contribution Program service from Crown-Indigenous Relations and Northern Affairs Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -3738,7 +3742,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/esdc/1371/</guid>
-      <description>The Federal Workers&#39; Compensation service from Employment and Social Development Canada is not available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Federal Workers&amp;rsquo; Compensation service from Employment and Social Development Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -3756,7 +3760,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/tc/1587/</guid>
-      <description>The Ferry Services Contribution Program service from Transport Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Ferry Services Contribution Program service from Transport Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -3801,7 +3805,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/1786/</guid>
-      <description>The First Nations and Inuit Primary Care: Clinical Care Direct Service Delivery service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The First Nations and Inuit Primary Care: Clinical Care Direct Service Delivery service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -3819,7 +3823,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/1795/</guid>
-      <description>The First Nations and Inuit Primary Care: Home and Community Care Direct Service Delivery service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The First Nations and Inuit Primary Care: Home and Community Care Direct Service Delivery service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -3846,7 +3850,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/1802/</guid>
-      <description>The First Nations and Inuit Public Health Protection (Communicable and Environmental): Environmental Health Direct Service Delivery service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The First Nations and Inuit Public Health Protection (Communicable and Environmental): Environmental Health Direct Service Delivery service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -3855,7 +3859,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/1803/</guid>
-      <description>The First Nations and Inuit Public Health Protection (Communicable and Environmental): Environmental Health Services Funding service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The First Nations and Inuit Public Health Protection (Communicable and Environmental): Environmental Health Services Funding service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -3882,7 +3886,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/2050/</guid>
-      <description>The First Nations Commercial and Industrial Development Act Regulatory Development service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The First Nations Commercial and Industrial Development Act Regulatory Development service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -3909,7 +3913,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/2064/</guid>
-      <description>The First Nations Solid Waste Management Initiative service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The First Nations Solid Waste Management Initiative service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -3918,7 +3922,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/1009/</guid>
-      <description>The Fisheries Act Authorizations service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Fisheries Act Authorizations service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -3927,7 +3931,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/1010/</guid>
-      <description>The Fisheries and Aquaculture Clean Technology Adoption Program (FACTAP) service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Fisheries and Aquaculture Clean Technology Adoption Program (FACTAP) service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -3936,7 +3940,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/tc/1525/</guid>
-      <description>The Flight Operations service from Transport Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Flight Operations service from Transport Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -3945,7 +3949,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/hc/772/</guid>
-      <description>The Food and Drugs Act Liaison Office (FDALO) service from Health Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Food and Drugs Act Liaison Office (FDALO) service from Health Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -3963,7 +3967,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cfia/4/</guid>
-      <description>The Food Recall Warnings- High Risk service from Canadian Food Inspection Agency is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Food Recall Warnings- High Risk service from Canadian Food Inspection Agency is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -3972,7 +3976,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cirnac/1357/</guid>
-      <description>The Forensic Investigations service from Crown-Indigenous Relations and Northern Affairs Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Forensic Investigations service from Crown-Indigenous Relations and Northern Affairs Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -3990,7 +3994,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cirnac/1358/</guid>
-      <description>The Fraud Awareness service from Crown-Indigenous Relations and Northern Affairs Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Fraud Awareness service from Crown-Indigenous Relations and Northern Affairs Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -4008,7 +4012,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/nrcan/1675/</guid>
-      <description>The Fuel Focus website service from Natural Resources Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Fuel Focus website service from Natural Resources Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -4089,7 +4093,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/1812/</guid>
-      <description>The Funding for Essential Community-Based Services: e-Health Management Funding service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Funding for Essential Community-Based Services: e-Health Management Funding service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -4116,7 +4120,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/2049/</guid>
-      <description>The Funding for Essential Community-Based Services: First Nation Economic Development Capacity and Readiness Funding and Support service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Funding for Essential Community-Based Services: First Nation Economic Development Capacity and Readiness Funding and Support service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -4125,7 +4129,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/2053/</guid>
-      <description>The Funding for Essential Community-Based Services: First Nation Land Management service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Funding for Essential Community-Based Services: First Nation Land Management service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -4134,7 +4138,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/1233/</guid>
-      <description>The Funding for Essential Community-Based Services: First Nations Child and Family Services Funding service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Funding for Essential Community-Based Services: First Nations Child and Family Services Funding service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -4161,7 +4165,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/2061/</guid>
-      <description>The Funding for Essential Community-Based Services: Reserve Land and Environment Management Program service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Funding for Essential Community-Based Services: Reserve Land and Environment Management Program service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -4206,7 +4210,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cirnac/1131/</guid>
-      <description>The Funding Services service from Crown-Indigenous Relations and Northern Affairs Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Funding Services service from Crown-Indigenous Relations and Northern Affairs Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -4233,7 +4237,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/infrastructure/1772/</guid>
-      <description>The Gas Tax Fund (GTF) service from Infrastructure Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Gas Tax Fund (GTF) service from Infrastructure Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -4323,7 +4327,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/tc/1602/</guid>
-      <description>The General Terminal: Domestic and International service from Transport Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The General Terminal: Domestic and International service from Transport Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -4332,7 +4336,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/nrcan/1711/</guid>
-      <description>The GEOSCAN service from Natural Resources Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The GEOSCAN service from Natural Resources Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -4395,7 +4399,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/tc/1589/</guid>
-      <description>The Grant to the Province of British Columbia in respect of the provision of ferry and coastal freight and passenger services service from Transport Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Grant to the Province of British Columbia in respect of the provision of ferry and coastal freight and passenger services service from Transport Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -4404,7 +4408,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/sshrc/655/</guid>
-      <description>The Grant, Scholarship and Fellowship Funding Transfers to Administering Institutions service from Social Sciences and Humanities Research Council of Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Grant, Scholarship and Fellowship Funding Transfers to Administering Institutions service from Social Sciences and Humanities Research Council of Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -4413,7 +4417,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/nserc/759/</guid>
-      <description>The Grant, Scholarship, Fellowship and Award Administration service from Natural Sciences and Engineering Research Council of Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Grant, Scholarship, Fellowship and Award Administration service from Natural Sciences and Engineering Research Council of Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -4422,7 +4426,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/sshrc/656/</guid>
-      <description>The Grant, Scholarship, Fellowship and Award Administration service from Social Sciences and Humanities Research Council of Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Grant, Scholarship, Fellowship and Award Administration service from Social Sciences and Humanities Research Council of Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -4476,7 +4480,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/phac/888/</guid>
-      <description>The Grants and Contributions Services service from Public Health Agency of Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Grants and Contributions Services service from Public Health Agency of Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -4512,7 +4516,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/846/</guid>
-      <description>The Grants for the Disposal of Surplus Lighthouses service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Grants for the Disposal of Surplus Lighthouses service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -4566,7 +4570,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/1011/</guid>
-      <description>The Habitat Stewardship Program for Aquatic Species at Risk service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Habitat Stewardship Program for Aquatic Species at Risk service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -4575,7 +4579,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/tc/1665/</guid>
-      <description>The Hangar and Ground Handling service from Transport Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Hangar and Ground Handling service from Transport Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -4584,7 +4588,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/tc/1607/</guid>
-      <description>The Harbour Dues service from Transport Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Harbour Dues service from Transport Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -4620,7 +4624,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/hc/768/</guid>
-      <description>The Health Canada General Enquiries service from Health Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Health Canada General Enquiries service from Health Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -4629,7 +4633,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/hc/771/</guid>
-      <description>The Health Canada Publications service from Health Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Health Canada Publications service from Health Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -4647,7 +4651,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/1810/</guid>
-      <description>The Health Human Resources Funding service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Health Human Resources Funding service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -4656,7 +4660,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/1813/</guid>
-      <description>The Health Planning service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Health Planning service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -4701,7 +4705,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cbsa/669/</guid>
-      <description>The Highway Traveller Processing service from Canada Border Services Agency is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Highway Traveller Processing service from Canada Border Services Agency is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -4755,7 +4759,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/1515/</guid>
-      <description>The Ice Assistance Emergency Program service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Ice Assistance Emergency Program service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -4773,7 +4777,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/1037/</guid>
-      <description>The Icebreaking service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Icebreaking service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -4854,7 +4858,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/iaac/2118/</guid>
-      <description>The Impact Assessment done by Substitution service from Impact Assessment Agency of Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Impact Assessment done by Substitution service from Impact Assessment Agency of Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -4872,7 +4876,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cnsc/918/</guid>
-      <description>The Import or export licence application service from Canadian Nuclear Safety Commission is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Import or export licence application service from Canadian Nuclear Safety Commission is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -4890,7 +4894,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/hc/1933/</guid>
-      <description>The Importation of designated devices service from Health Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Importation of designated devices service from Health Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -4908,7 +4912,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/gac/1858/</guid>
-      <description>The Importing into Canada service from Global Affairs Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Importing into Canada service from Global Affairs Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -4971,7 +4975,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cra/1104/</guid>
-      <description>The Income Tax Rulings service from Canada Revenue Agency is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Income Tax Rulings service from Canada Revenue Agency is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -5025,7 +5029,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cirnac/2129/</guid>
-      <description>The Indigenous Arts Centre service from Crown-Indigenous Relations and Northern Affairs Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Indigenous Arts Centre service from Crown-Indigenous Relations and Northern Affairs Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -5034,7 +5038,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/2056/</guid>
-      <description>The Indigenous Entrepreneurship – Access to Capital service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Indigenous Entrepreneurship – Access to Capital service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -5043,7 +5047,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/2087/</guid>
-      <description>The Indigenous Habitat Participation Program service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Indigenous Habitat Participation Program service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -5070,7 +5074,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cra/1139/</guid>
-      <description>The Individual Tax Enquiries (Call Centre) service from Canada Revenue Agency is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Individual Tax Enquiries (Call Centre) service from Canada Revenue Agency is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -5106,7 +5110,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cannor/1530/</guid>
-      <description>The Industry Advisory Service / Northern Projects Management Office (NPMO) service from Canadian Northern Economic Development Agency is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Industry Advisory Service / Northern Projects Management Office (NPMO) service from Canadian Northern Economic Development Agency is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -5205,7 +5209,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/rcmp/931/</guid>
-      <description>The Integrated Forensic Identification Services (IFIS)- Disaster Victim Identification (DVI) service from Royal Canadian Mounted Police is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Integrated Forensic Identification Services (IFIS)- Disaster Victim Identification (DVI) service from Royal Canadian Mounted Police is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -5214,7 +5218,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/tc/1700/</guid>
-      <description>The Intelligence Surveillance Reconnaissance service from Transport Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Intelligence Surveillance Reconnaissance service from Transport Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -5232,7 +5236,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/2054/</guid>
-      <description>The Interdepartmental Procurement Strategy for Aboriginal Businesses service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Interdepartmental Procurement Strategy for Aboriginal Businesses service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -5250,7 +5254,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cirnac/1012/</guid>
-      <description>The Intergovernmental and International Relations service from Crown-Indigenous Relations and Northern Affairs Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Intergovernmental and International Relations service from Crown-Indigenous Relations and Northern Affairs Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -5394,7 +5398,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cirnac/1023/</guid>
-      <description>The Inuit Housing service from Crown-Indigenous Relations and Northern Affairs Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Inuit Housing service from Crown-Indigenous Relations and Northern Affairs Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -5403,7 +5407,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/1316/</guid>
-      <description>The Inuit Post-Secondary Strategy service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Inuit Post-Secondary Strategy service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -5412,7 +5416,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/nsira/2154/</guid>
-      <description>The Investigate a Complaint service from National Security and Intelligence Review Agency Secretariat is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Investigate a Complaint service from National Security and Intelligence Review Agency Secretariat is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -5448,7 +5452,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/ic/1265/</guid>
-      <description>The IP Awareness and Education Program service from Innovation, Science and Economic Development Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The IP Awareness and Education Program service from Innovation, Science and Economic Development Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -5502,7 +5506,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/ic/1332/</guid>
-      <description>The ISED Citizen Services Centre service from Innovation, Science and Economic Development Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The ISED Citizen Services Centre service from Innovation, Science and Economic Development Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -5691,7 +5695,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/atssc/1724/</guid>
-      <description>The Jacob Finkelman Library service from Administrative Tribunals Support Service of Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Jacob Finkelman Library service from Administrative Tribunals Support Service of Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -5754,7 +5758,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/esdc/1295/</guid>
-      <description>The Labour Market Information service from Employment and Social Development Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Labour Market Information service from Employment and Social Development Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -5772,7 +5776,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/tc/1590/</guid>
-      <description>The Labrador Coastal Airstrips Restoration Program service from Transport Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Labrador Coastal Airstrips Restoration Program service from Transport Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -5790,7 +5794,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/2063/</guid>
-      <description>The Land Use Planning service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Land Use Planning service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -5808,7 +5812,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/ec/950/</guid>
-      <description>The Library Services service from Environment and Climate Change Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Library Services service from Environment and Climate Change Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -5817,7 +5821,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cnsc/917/</guid>
-      <description>The Licence application for Class II nuclear facilities and prescribed equipment service from Canadian Nuclear Safety Commission is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Licence application for Class II nuclear facilities and prescribed equipment service from Canadian Nuclear Safety Commission is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -5826,7 +5830,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cnsc/915/</guid>
-      <description>The Licence application for nuclear substances and radiation devices service from Canadian Nuclear Safety Commission is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Licence application for nuclear substances and radiation devices service from Canadian Nuclear Safety Commission is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -5889,7 +5893,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cirnac/2127/</guid>
-      <description>The List of First Nations participating in First Nations land management service from Crown-Indigenous Relations and Northern Affairs Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The List of First Nations participating in First Nations land management service from Crown-Indigenous Relations and Northern Affairs Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -5970,7 +5974,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/crcc/2150/</guid>
-      <description>The Make a Complaint service from Civilian Review and Complaints Commission for the RCMP is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Make a Complaint service from Civilian Review and Complaints Commission for the RCMP is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -6006,7 +6010,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/hc/876/</guid>
-      <description>The Manufacturer’s Certificate to Export licenced medical devices from Canada (MCE) service from Health Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Manufacturer’s Certificate to Export licenced medical devices from Canada (MCE) service from Health Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -6033,7 +6037,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/2092/</guid>
-      <description>The Marine Mammal Response Program service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Marine Mammal Response Program service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -6078,7 +6082,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cbsa/672/</guid>
-      <description>The Marine Traveller Processing service from Canada Border Services Agency is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Marine Traveller Processing service from Canada Border Services Agency is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -6123,7 +6127,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/2069/</guid>
-      <description>The Matrimonial Real Property service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Matrimonial Real Property service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -6150,7 +6154,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/infrastructure/1789/</guid>
-      <description>The Media Enquiries service from Infrastructure Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Media Enquiries service from Infrastructure Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -6177,7 +6181,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/pco/1387/</guid>
-      <description>The Media enquiries service from Privy Council Office is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Media enquiries service from Privy Council Office is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -6222,7 +6226,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/hc/877/</guid>
-      <description>The Medical Device Establishment Licencing (MDEL) service from Health Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Medical Device Establishment Licencing (MDEL) service from Health Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -6231,7 +6235,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/ircc/1481/</guid>
-      <description>The Medical Surveillance Notification service from Immigration, Refugees and Citizenship Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Medical Surveillance Notification service from Immigration, Refugees and Citizenship Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -6258,7 +6262,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/phac/1142/</guid>
-      <description>The Microbiological Emergency Response Team (MERT) service from Public Health Agency of Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Microbiological Emergency Response Team (MERT) service from Public Health Agency of Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -6294,7 +6298,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cirnac/2128/</guid>
-      <description>The Ministerial Correspondence service from Crown-Indigenous Relations and Northern Affairs Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Ministerial Correspondence service from Crown-Indigenous Relations and Northern Affairs Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -6303,7 +6307,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/1746/</guid>
-      <description>The Ministerial Correspondence service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Ministerial Correspondence service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -6321,7 +6325,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/hc/873/</guid>
-      <description>The Ministerial Correspondence service from Health Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Ministerial Correspondence service from Health Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -6411,7 +6415,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/osfi/2119/</guid>
-      <description>The Monitoring and addressing events in the financial sector, response to liquidity crisis service from Office of the Superintendent of Financial Institutions Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Monitoring and addressing events in the financial sector, response to liquidity crisis service from Office of the Superintendent of Financial Institutions Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -6420,7 +6424,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/1015/</guid>
-      <description>The MPA Activity Plan Application Process – Anguniaqvia niqiqyuam MPA service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The MPA Activity Plan Application Process – Anguniaqvia niqiqyuam MPA service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -6429,7 +6433,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/2079/</guid>
-      <description>The MPA Activity Plan Application Process – Banc-des-Americains MPA service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The MPA Activity Plan Application Process – Banc-des-Americains MPA service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -6438,7 +6442,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/2078/</guid>
-      <description>The MPA Activity Plan Application Process – Basin Head MPA service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The MPA Activity Plan Application Process – Basin Head MPA service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -6447,7 +6451,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/1017/</guid>
-      <description>The MPA Activity Plan Application Process – Eastport MPA service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The MPA Activity Plan Application Process – Eastport MPA service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -6456,7 +6460,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/1018/</guid>
-      <description>The MPA Activity Plan Application Process – Endeavour Hydrothermal Vents service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The MPA Activity Plan Application Process – Endeavour Hydrothermal Vents service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -6465,7 +6469,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/1020/</guid>
-      <description>The MPA Activity Plan Application Process – Gilbert Bay MPA service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The MPA Activity Plan Application Process – Gilbert Bay MPA service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -6474,7 +6478,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/1021/</guid>
-      <description>The MPA Activity Plan Application Process – Gully MPA service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The MPA Activity Plan Application Process – Gully MPA service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -6483,7 +6487,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/1022/</guid>
-      <description>The MPA Activity Plan Application Process – Hecate Strait/Queen Charlotte Sound Glass Sponge Reefs MPA service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The MPA Activity Plan Application Process – Hecate Strait/Queen Charlotte Sound Glass Sponge Reefs MPA service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -6492,7 +6496,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/2077/</guid>
-      <description>The MPA Activity Plan Application Process – Laurentian Channel MPA service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The MPA Activity Plan Application Process – Laurentian Channel MPA service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -6501,7 +6505,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/1024/</guid>
-      <description>The MPA Activity Plan Application Process – Musquash Estuary MPA service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The MPA Activity Plan Application Process – Musquash Estuary MPA service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -6510,7 +6514,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/1016/</guid>
-      <description>The MPA Activity Plan Application Process – SGaan Kinghlas-Bowie Seamount MPA service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The MPA Activity Plan Application Process – SGaan Kinghlas-Bowie Seamount MPA service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -6519,7 +6523,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/1025/</guid>
-      <description>The MPA Activity Plan Application Process – St. Anns Bank MPA service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The MPA Activity Plan Application Process – St. Anns Bank MPA service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -6528,7 +6532,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/infrastructure/1780/</guid>
-      <description>The Municipal Asset Management Program (MAMP) service from Infrastructure Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Municipal Asset Management Program (MAMP) service from Infrastructure Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -6546,7 +6550,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/infrastructure/1781/</guid>
-      <description>The Municipalities for Climate Innovation Program (MCIP) service from Infrastructure Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Municipalities for Climate Innovation Program (MCIP) service from Infrastructure Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -6573,7 +6577,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cirnac/1019/</guid>
-      <description>The Métis Housing service from Crown-Indigenous Relations and Northern Affairs Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Métis Housing service from Crown-Indigenous Relations and Northern Affairs Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -6582,7 +6586,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/1314/</guid>
-      <description>The Métis Nation Post-Secondary Education Strategy service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Métis Nation Post-Secondary Education Strategy service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -6609,7 +6613,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cirnac/1356/</guid>
-      <description>The National Allegations and Complaints service from Crown-Indigenous Relations and Northern Affairs Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The National Allegations and Complaints service from Crown-Indigenous Relations and Northern Affairs Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -6636,7 +6640,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/rcmp/932/</guid>
-      <description>The National DNA Data Bank (NDDB) Indices Comparison service from Royal Canadian Mounted Police is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The National DNA Data Bank (NDDB) Indices Comparison service from Royal Canadian Mounted Police is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -6663,7 +6667,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/phac/890/</guid>
-      <description>The National Emergency Strategic Stockpile service from Public Health Agency of Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The National Emergency Strategic Stockpile service from Public Health Agency of Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -6672,7 +6676,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/ec/963/</guid>
-      <description>The National Environmental Emergencies Centre service from Environment and Climate Change Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The National Environmental Emergencies Centre service from Environment and Climate Change Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -6699,7 +6703,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/rcmp/928/</guid>
-      <description>The National Forensic Laboratory Services (NFLS) service from Royal Canadian Mounted Police is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The National Forensic Laboratory Services (NFLS) service from Royal Canadian Mounted Police is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -6735,7 +6739,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/pwgsc/1095/</guid>
-      <description>The National Print Service service from Public Services and Procurement Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The National Print Service service from Public Services and Procurement Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -6834,7 +6838,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/infrastructure/1828/</guid>
-      <description>The New Building Canada Fund (NBCF) – National Infrastructure Component (NIC) service from Infrastructure Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The New Building Canada Fund (NBCF) – National Infrastructure Component (NIC) service from Infrastructure Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -6843,7 +6847,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/infrastructure/1773/</guid>
-      <description>The New Building Canada Fund – Provincial-Territorial Infrastructure Component – National and Regional Projects (PTIC-NRP) service from Infrastructure Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The New Building Canada Fund – Provincial-Territorial Infrastructure Component – National and Regional Projects (PTIC-NRP) service from Infrastructure Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -6852,7 +6856,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/infrastructure/1774/</guid>
-      <description>The New Building Canada Fund – Provincial-Territorial Infrastructure Component – Small Communities Fund (PTIC-SCF) service from Infrastructure Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The New Building Canada Fund – Provincial-Territorial Infrastructure Component – Small Communities Fund (PTIC-SCF) service from Infrastructure Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -6933,7 +6937,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/hc/1941/</guid>
-      <description>The Notices of Restriction for Pharmacists and Physicians service from Health Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Notices of Restriction for Pharmacists and Physicians service from Health Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -6960,7 +6964,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/1028/</guid>
-      <description>The Observer Designation Application and Renewal Processing service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Observer Designation Application and Renewal Processing service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -6978,7 +6982,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/1029/</guid>
-      <description>The Oceans Management Contribution Program in support of oceans conservation and management activities service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Oceans Management Contribution Program in support of oceans conservation and management activities service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -6987,7 +6991,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/1030/</guid>
-      <description>The Oceans Management Grant Program to support Indigenous Groups service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Oceans Management Grant Program to support Indigenous Groups service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -7023,7 +7027,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/psc/1158/</guid>
-      <description>The Official Language proficiency: Exclusions on medical grounds service from Public Service Commission of Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Official Language proficiency: Exclusions on medical grounds service from Public Service Commission of Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -7041,7 +7045,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/1763/</guid>
-      <description>The On-Reserve Education Facilities Capacity Building service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The On-Reserve Education Facilities Capacity Building service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -7050,7 +7054,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/1761/</guid>
-      <description>The On-Reserve Education Facilities Policy and Technical Support service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The On-Reserve Education Facilities Policy and Technical Support service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -7059,7 +7063,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/1769/</guid>
-      <description>The On-Reserve Housing Capacity Building service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The On-Reserve Housing Capacity Building service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -7068,7 +7072,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/1768/</guid>
-      <description>The On-Reserve Housing Policy and Technical Support service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The On-Reserve Housing Policy and Technical Support service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -7077,7 +7081,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/1766/</guid>
-      <description>The On-Reserve Water and Wastewater Infrastructure Capacity Building service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The On-Reserve Water and Wastewater Infrastructure Capacity Building service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -7086,7 +7090,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/1771/</guid>
-      <description>The On-Reserve Water and Wastewater Infrastructure Policy and Technical Support service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The On-Reserve Water and Wastewater Infrastructure Policy and Technical Support service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -7113,7 +7117,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/tc/1562/</guid>
-      <description>The Operating a federal railway service from Transport Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Operating a federal railway service from Transport Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -7122,7 +7126,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/tc/1661/</guid>
-      <description>The Operating airports and aerodromes service from Transport Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Operating airports and aerodromes service from Transport Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -7149,7 +7153,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/1765/</guid>
-      <description>The Other Community Infrastructure Policy and Technical Support service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Other Community Infrastructure Policy and Technical Support service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -7203,7 +7207,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cnsc/921/</guid>
-      <description>The Participant Funding Program service from Canadian Nuclear Safety Commission is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Participant Funding Program service from Canadian Nuclear Safety Commission is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -7248,7 +7252,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/grainscanada/2004/</guid>
-      <description>The Payment Protection for Grain Producers service from Canadian Grain Commission is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Payment Protection for Grain Producers service from Canadian Grain Commission is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -7392,7 +7396,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/hc/1934/</guid>
-      <description>The Pharmacy Referrals to Provincial Regulatory Authorities service from Health Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Pharmacy Referrals to Provincial Regulatory Authorities service from Health Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -7401,7 +7405,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/nrcan/1652/</guid>
-      <description>The Pipeline Arbitration Secretariat service from Natural Resources Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Pipeline Arbitration Secretariat service from Natural Resources Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -7428,7 +7432,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/tc/1594/</guid>
-      <description>The Ports Asset Transfer Program service from Transport Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Ports Asset Transfer Program service from Transport Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -7455,7 +7459,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/hc/1964/</guid>
-      <description>The Precursor Authorization Certifications (New, Amendments and Cancellations) service from Health Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Precursor Authorization Certifications (New, Amendments and Cancellations) service from Health Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -7464,7 +7468,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/pco/1118/</guid>
-      <description>The Prime Minister&amp;rsquo;s Email service from Privy Council Office is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Prime Minister&amp;rsquo;s Email service from Privy Council Office is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -7590,7 +7594,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/nbc/324/</guid>
-      <description>The Processing of applications for using the ground service from The National Battlefields Commission is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Processing of applications for using the ground service from The National Battlefields Commission is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -7608,7 +7612,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cbsa/729/</guid>
-      <description>The Processing Vehicle Import Forms 1 and 3 service from Canada Border Services Agency is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Processing Vehicle Import Forms 1 and 3 service from Canada Border Services Agency is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -7635,7 +7639,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/hc/1953/</guid>
-      <description>The Product Recalls service from Health Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Product Recalls service from Health Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -7653,7 +7657,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/tc/2070/</guid>
-      <description>The Program to Address Disturbances from Vessel Traffic: Vessel slowdown service from Transport Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Program to Address Disturbances from Vessel Traffic: Vessel slowdown service from Transport Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -7662,7 +7666,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/tc/2073/</guid>
-      <description>The Program to Address Disturbances from Vessel Traffic: WhaleReport Alert System service from Transport Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Program to Address Disturbances from Vessel Traffic: WhaleReport Alert System service from Transport Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -7689,7 +7693,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/tc/2074/</guid>
-      <description>The Program to Protect Canada&amp;rsquo;s Coastlines and Waterways: Abandoned Boats Program service from Transport Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Program to Protect Canada&amp;rsquo;s Coastlines and Waterways: Abandoned Boats Program service from Transport Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -7698,7 +7702,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/tc/2075/</guid>
-      <description>The Program to Protect Canada&amp;rsquo;s Coastlines and Waterways: Indigenous and Local Communities Engagement and Partnership Program service from Transport Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Program to Protect Canada&amp;rsquo;s Coastlines and Waterways: Indigenous and Local Communities Engagement and Partnership Program service from Transport Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -7707,7 +7711,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/tc/2076/</guid>
-      <description>The Program to Protect Canada&amp;rsquo;s Coastlines and Waterways: Marine Training Program service from Transport Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Program to Protect Canada&amp;rsquo;s Coastlines and Waterways: Marine Training Program service from Transport Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -7716,7 +7720,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/tc/2085/</guid>
-      <description>The Program to Protect Canada&amp;rsquo;s Coastlines and Waterways: Program to Enhance Maritime Situational Awareness service from Transport Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Program to Protect Canada&amp;rsquo;s Coastlines and Waterways: Program to Enhance Maritime Situational Awareness service from Transport Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -7752,7 +7756,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cirnac/1483/</guid>
-      <description>The Provide Crown land quarry permits/leases (as per the Territorial Lands Act) service from Crown-Indigenous Relations and Northern Affairs Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Provide Crown land quarry permits/leases (as per the Territorial Lands Act) service from Crown-Indigenous Relations and Northern Affairs Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -7761,7 +7765,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cirnac/1165/</guid>
-      <description>The Provide Crown land surface leases service from Crown-Indigenous Relations and Northern Affairs Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Provide Crown land surface leases service from Crown-Indigenous Relations and Northern Affairs Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -7770,7 +7774,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cirnac/1164/</guid>
-      <description>The Provide Crown land use permits authorizations service from Crown-Indigenous Relations and Northern Affairs Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Provide Crown land use permits authorizations service from Crown-Indigenous Relations and Northern Affairs Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -7878,7 +7882,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/1038/</guid>
-      <description>The Provision of Distress and Safety Communications service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Provision of Distress and Safety Communications service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -7905,7 +7909,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/1039/</guid>
-      <description>The Provision of Marine Information service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Provision of Marine Information service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -7914,7 +7918,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/1040/</guid>
-      <description>The Provision of Radio Communications and Public Correspondence Service service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Provision of Radio Communications and Public Correspondence Service service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -8049,7 +8053,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/pmprb/1822/</guid>
-      <description>The Public and media enquiries service from Patented Medicine Prices Review Board Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Public and media enquiries service from Patented Medicine Prices Review Board Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -8076,7 +8080,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/crcc/2152/</guid>
-      <description>The Public Education and Outreach service from Civilian Review and Complaints Commission for the RCMP is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Public Education and Outreach service from Civilian Review and Complaints Commission for the RCMP is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -8094,7 +8098,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cihr/1122/</guid>
-      <description>The Public Enquiries service from Canadian Institutes of Health Research is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Public Enquiries service from Canadian Institutes of Health Research is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -8112,7 +8116,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/infrastructure/1790/</guid>
-      <description>The Public Enquiries service from Infrastructure Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Public Enquiries service from Infrastructure Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -8130,7 +8134,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/nrcan/1578/</guid>
-      <description>The Public Enquiries service from Natural Resources Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Public Enquiries service from Natural Resources Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -8157,7 +8161,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/tbs/1114/</guid>
-      <description>The Public Enquiries service from Treasury Board of Canada Secretariat is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Public Enquiries service from Treasury Board of Canada Secretariat is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -8166,7 +8170,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/pco/1388/</guid>
-      <description>The Public enquiries service from Privy Council Office is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Public enquiries service from Privy Council Office is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -8184,7 +8188,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/1800/</guid>
-      <description>The Public Health Promotion and Disease Prevention Direct Service Delivery service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Public Health Promotion and Disease Prevention Direct Service Delivery service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -8193,7 +8197,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/1801/</guid>
-      <description>The Public Health Promotion and Disease Prevention Services Funding service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Public Health Promotion and Disease Prevention Services Funding service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -8229,7 +8233,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/tc/1613/</guid>
-      <description>The Public Ports – Berthage service from Transport Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Public Ports – Berthage service from Transport Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -8238,7 +8242,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/tc/1615/</guid>
-      <description>The Public Ports – Storage service from Transport Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Public Ports – Storage service from Transport Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -8247,7 +8251,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/tc/1618/</guid>
-      <description>The Public Ports – Utilities and Other Services service from Transport Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Public Ports – Utilities and Other Services service from Transport Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -8256,7 +8260,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/tc/1619/</guid>
-      <description>The Public Ports – Wharfage &amp;amp; Transfer service from Transport Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Public Ports – Wharfage &amp;amp; Transfer service from Transport Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -8274,7 +8278,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/nfb/1526/</guid>
-      <description>The Public Screenings service from National Film Board is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Public Screenings service from National Film Board is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -8292,7 +8296,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/infrastructure/1775/</guid>
-      <description>The Public Transit Infrastructure Fund (PTIF) service from Infrastructure Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Public Transit Infrastructure Fund (PTIF) service from Infrastructure Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -8319,7 +8323,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/2072/</guid>
-      <description>The Quebec Fisheries Fund service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Quebec Fisheries Fund service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -8346,7 +8350,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/tc/1564/</guid>
-      <description>The Rail Safety Improvement Program (RSIP) service from Transport Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Rail Safety Improvement Program (RSIP) service from Transport Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -8364,7 +8368,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cbsa/671/</guid>
-      <description>The Rail Traveller Processing service from Canada Border Services Agency is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Rail Traveller Processing service from Canada Border Services Agency is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -8382,7 +8386,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/pwgsc/971/</guid>
-      <description>The Real Estate Services service from Public Services and Procurement Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Real Estate Services service from Public Services and Procurement Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -8409,7 +8413,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/1031/</guid>
-      <description>The Recreational Fisheries Conservation Partnerships Program Contribution Agreements service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Recreational Fisheries Conservation Partnerships Program Contribution Agreements service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -8445,7 +8449,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/hc/1935/</guid>
-      <description>The Referrals to Law Enforcement service from Health Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Referrals to Law Enforcement service from Health Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -8553,7 +8557,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/hc/878/</guid>
-      <description>The Registration of a Cells, Tissues and Organs (CTO) Establishment service from Health Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Registration of a Cells, Tissues and Organs (CTO) Establishment service from Health Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -8562,7 +8566,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/atssc/712/</guid>
-      <description>The Registry Services service from Administrative Tribunals Support Service of Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Registry Services service from Administrative Tribunals Support Service of Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -8580,7 +8584,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cfia/5/</guid>
-      <description>The Regulatory Complaints service from Canadian Food Inspection Agency is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Regulatory Complaints service from Canadian Food Inspection Agency is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -8652,7 +8656,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/crcc/2151/</guid>
-      <description>The Request a Review service from Civilian Review and Complaints Commission for the RCMP is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Request a Review service from Civilian Review and Complaints Commission for the RCMP is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -8670,7 +8674,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/phac/1720/</guid>
-      <description>The Request for assistance for outbreak support service from Public Health Agency of Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Request for assistance for outbreak support service from Public Health Agency of Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -8787,7 +8791,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/hc/1938/</guid>
-      <description>The Responding to enquiries from external stakeholders service from Health Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Responding to enquiries from external stakeholders service from Health Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -8796,7 +8800,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/hc/1937/</guid>
-      <description>The Responding to enquiries from law enforcement (Status requests and Production Orders) service from Health Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Responding to enquiries from law enforcement (Status requests and Production Orders) service from Health Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -8868,7 +8872,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/fja/1882/</guid>
-      <description>The Review judges&#39; conduct complaints service from Office of the Commissioner for Federal Judicial Affairs Canada is not available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Review judges&amp;rsquo; conduct complaints service from Office of the Commissioner for Federal Judicial Affairs Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -8967,7 +8971,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/ec/1092/</guid>
-      <description>The Science Horizons Youth Internship Program service from Environment and Climate Change Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Science Horizons Youth Internship Program service from Environment and Climate Change Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -8976,7 +8980,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/hc/1965/</guid>
-      <description>The Scientific and Clinical Trial Exemptions (New, Extensions, Amendments and Cancellations) service from Health Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Scientific and Clinical Trial Exemptions (New, Extensions, Amendments and Cancellations) service from Health Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -8985,7 +8989,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/1041/</guid>
-      <description>The Search and Rescue Coordination service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Search and Rescue Coordination service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -9003,7 +9007,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/1043/</guid>
-      <description>The Search and Rescue Response service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Search and Rescue Response service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -9057,7 +9061,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/pwgsc/906/</guid>
-      <description>The Seized Property Management service from Public Services and Procurement Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Seized Property Management service from Public Services and Procurement Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -9066,7 +9070,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/rcmp/2137/</guid>
-      <description>The Sensitive and Specialized Investigative Services service from Royal Canadian Mounted Police is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Sensitive and Specialized Investigative Services service from Royal Canadian Mounted Police is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -9075,7 +9079,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cfia/6/</guid>
-      <description>The Service Complaints service from Canadian Food Inspection Agency is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Service Complaints service from Canadian Food Inspection Agency is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -9147,7 +9151,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/phac/1870/</guid>
-      <description>The Ship Sanitation Inspections service from Public Health Agency of Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Ship Sanitation Inspections service from Public Health Agency of Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -9174,7 +9178,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/1033/</guid>
-      <description>The Small Craft Harbours Class Contribution Program service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Small Craft Harbours Class Contribution Program service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -9183,7 +9187,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/1034/</guid>
-      <description>The Small Craft Harbours Divestiture Class Grant Program service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Small Craft Harbours Divestiture Class Grant Program service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -9192,7 +9196,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/nrcan/1657/</guid>
-      <description>The SmartWay Transportation Partnership service from Natural Resources Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The SmartWay Transportation Partnership service from Natural Resources Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -9210,7 +9214,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/atssc/1725/</guid>
-      <description>The Social Security Tribunal Secretariat Call Centre service from Administrative Tribunals Support Service of Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Social Security Tribunal Secretariat Call Centre service from Administrative Tribunals Support Service of Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -9237,7 +9241,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/csa/1474/</guid>
-      <description>The Space-based Automated Identification of Ships Data Services service from Canadian Space Agency is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Space-based Automated Identification of Ships Data Services service from Canadian Space Agency is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -9264,7 +9268,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/1035/</guid>
-      <description>The Species at Risk Act Permits service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Species at Risk Act Permits service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -9336,7 +9340,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/grainscanada/1990/</guid>
-      <description>The Statistical, Research and Technical Publications service from Canadian Grain Commission is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Statistical, Research and Technical Publications service from Canadian Grain Commission is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -9345,7 +9349,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/hc/1932/</guid>
-      <description>The Status Confirmation Service service from Health Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Status Confirmation Service service from Health Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -9390,7 +9394,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/hc/1966/</guid>
-      <description>The Supervised Consumption Site Exemptions (New, Renewal, Amendments, Cancellations) service from Health Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Supervised Consumption Site Exemptions (New, Renewal, Amendments, Cancellations) service from Health Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -9444,7 +9448,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/2067/</guid>
-      <description>The Sustainable On-Reserve First Nation Community and Economic Development service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Sustainable On-Reserve First Nation Community and Economic Development service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -9462,7 +9466,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cirnac/1157/</guid>
-      <description>The Targeted Contribution Funding to Support Climate Change Projects service from Crown-Indigenous Relations and Northern Affairs Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Targeted Contribution Funding to Support Climate Change Projects service from Crown-Indigenous Relations and Northern Affairs Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -9534,7 +9538,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/hc/1967/</guid>
-      <description>The Test Kit Registrations (New, Amendments and Cancellations) service from Health Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Test Kit Registrations (New, Amendments and Cancellations) service from Health Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -9552,7 +9556,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cirnac/2126/</guid>
-      <description>The The First Nations Fiscal Management Act and its institutions. service from Crown-Indigenous Relations and Northern Affairs Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The The First Nations Fiscal Management Act and its institutions. service from Crown-Indigenous Relations and Northern Affairs Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -9588,7 +9592,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/hc/1950/</guid>
-      <description>The Tobacco Control Program – Enquiries and Complaints service from Health Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Tobacco Control Program – Enquiries and Complaints service from Health Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -9606,7 +9610,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/gac/1860/</guid>
-      <description>The Trade Commissioner Service service from Global Affairs Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Trade Commissioner Service service from Global Affairs Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -9660,7 +9664,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cnsc/920/</guid>
-      <description>The Transport licence application service from Canadian Nuclear Safety Commission is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Transport licence application service from Canadian Nuclear Safety Commission is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -9714,7 +9718,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/2043/</guid>
-      <description>The Treaty Payments Events service from Indigenous Services Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Treaty Payments Events service from Indigenous Services Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -9759,7 +9763,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/forces/1057/</guid>
-      <description>The Unexploded Explosive Ordnance (UXO) service from National Defence is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Unexploded Explosive Ordnance (UXO) service from National Defence is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -9777,7 +9781,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/tc/1600/</guid>
-      <description>The Vehicle Parking service from Transport Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Vehicle Parking service from Transport Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -9831,7 +9835,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/1044/</guid>
-      <description>The Vessel Screening and Regulation of Vessel Traffic Movements service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Vessel Screening and Regulation of Vessel Traffic Movements service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -9849,7 +9853,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/vac/1633/</guid>
-      <description>The Veteran Family Program service from Veterans Affairs Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Veteran Family Program service from Veterans Affairs Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -9975,7 +9979,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/1045/</guid>
-      <description>The Waterways Management service from Fisheries and Oceans Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Waterways Management service from Fisheries and Oceans Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>
@@ -10029,7 +10033,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/phac/895/</guid>
-      <description>The Yellow Fever Vaccination Centre Designation service from Public Health Agency of Canada is available end-to-end online, according to the GC Service Inventory.</description>
+      <description>The Yellow Fever Vaccination Centre Designation service from Public Health Agency of Canada is not available end-to-end online, according to the GC Service Inventory.</description>
     </item>
     
     <item>

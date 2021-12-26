@@ -5,14 +5,18 @@
     <link>https://end-to-end-services.github.io/departments/</link>
     <description>Recent content in Departments on How many government services are available online end-to-end?</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://end-to-end-services.github.io/departments/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    
+	<atom:link href="https://end-to-end-services.github.io/departments/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Administrative Tribunals Support Service of Canada</title>
       <link>https://end-to-end-services.github.io/gc/atssc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/atssc/</guid>
-      <description>75% of the services provided by Administrative Tribunals Support Service of Canada are available end-to-end online. 3 are available online, and 1 are not available online.</description>
+      <description>0% of the services provided by Administrative Tribunals Support Service of Canada are available end-to-end online. 0 are available online, and 4 are not available online.</description>
     </item>
     
     <item>
@@ -30,7 +34,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/acoa/</guid>
-      <description>50% of the services provided by Atlantic Canada Opportunities Agency are available end-to-end online. 2 are available online, and 2 are not available online.</description>
+      <description>25% of the services provided by Atlantic Canada Opportunities Agency are available end-to-end online. 1 are available online, and 3 are not available online.</description>
     </item>
     
     <item>
@@ -39,7 +43,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cbsa/</guid>
-      <description>22% of the services provided by Canada Border Services Agency are available end-to-end online. 9 are available online, and 32 are not available online.</description>
+      <description>10% of the services provided by Canada Border Services Agency are available end-to-end online. 4 are available online, and 37 are not available online.</description>
     </item>
     
     <item>
@@ -66,7 +70,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cra/</guid>
-      <description>43% of the services provided by Canada Revenue Agency are available end-to-end online. 10 are available online, and 13 are not available online.</description>
+      <description>26% of the services provided by Canada Revenue Agency are available end-to-end online. 6 are available online, and 17 are not available online.</description>
     </item>
     
     <item>
@@ -84,7 +88,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cfia/</guid>
-      <description>50% of the services provided by Canadian Food Inspection Agency are available end-to-end online. 4 are available online, and 4 are not available online.</description>
+      <description>13% of the services provided by Canadian Food Inspection Agency are available end-to-end online. 1 are available online, and 7 are not available online.</description>
     </item>
     
     <item>
@@ -93,7 +97,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/grainscanada/</guid>
-      <description>15% of the services provided by Canadian Grain Commission are available end-to-end online. 2 are available online, and 11 are not available online.</description>
+      <description>0% of the services provided by Canadian Grain Commission are available end-to-end online. 0 are available online, and 13 are not available online.</description>
     </item>
     
     <item>
@@ -111,7 +115,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/chrc/</guid>
-      <description>50% of the services provided by Canadian Human Rights Commission are available end-to-end online. 1 are available online, and 1 are not available online.</description>
+      <description>0% of the services provided by Canadian Human Rights Commission are available end-to-end online. 0 are available online, and 2 are not available online.</description>
     </item>
     
     <item>
@@ -120,7 +124,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cihr/</guid>
-      <description>20% of the services provided by Canadian Institutes of Health Research are available end-to-end online. 1 are available online, and 4 are not available online.</description>
+      <description>0% of the services provided by Canadian Institutes of Health Research are available end-to-end online. 0 are available online, and 5 are not available online.</description>
     </item>
     
     <item>
@@ -138,7 +142,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cannor/</guid>
-      <description>50% of the services provided by Canadian Northern Economic Development Agency are available end-to-end online. 1 are available online, and 1 are not available online.</description>
+      <description>0% of the services provided by Canadian Northern Economic Development Agency are available end-to-end online. 0 are available online, and 2 are not available online.</description>
     </item>
     
     <item>
@@ -147,7 +151,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cnsc/</guid>
-      <description>100% of the services provided by Canadian Nuclear Safety Commission are available end-to-end online. 6 are available online, and 0 are not available online.</description>
+      <description>0% of the services provided by Canadian Nuclear Safety Commission are available end-to-end online. 0 are available online, and 6 are not available online.</description>
     </item>
     
     <item>
@@ -165,7 +169,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/csa/</guid>
-      <description>30% of the services provided by Canadian Space Agency are available end-to-end online. 3 are available online, and 7 are not available online.</description>
+      <description>20% of the services provided by Canadian Space Agency are available end-to-end online. 2 are available online, and 8 are not available online.</description>
     </item>
     
     <item>
@@ -183,7 +187,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/crcc/</guid>
-      <description>100% of the services provided by Civilian Review and Complaints Commission for the RCMP are available end-to-end online. 3 are available online, and 0 are not available online.</description>
+      <description>0% of the services provided by Civilian Review and Complaints Commission for the RCMP are available end-to-end online. 0 are available online, and 3 are not available online.</description>
     </item>
     
     <item>
@@ -219,7 +223,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/cirnac/</guid>
-      <description>79% of the services provided by Crown-Indigenous Relations and Northern Affairs Canada are available end-to-end online. 22 are available online, and 6 are not available online.</description>
+      <description>11% of the services provided by Crown-Indigenous Relations and Northern Affairs Canada are available end-to-end online. 3 are available online, and 25 are not available online.</description>
     </item>
     
     <item>
@@ -246,7 +250,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/esdc/</guid>
-      <description>43% of the services provided by Employment and Social Development Canada are available end-to-end online. 12 are available online, and 16 are not available online.</description>
+      <description>39% of the services provided by Employment and Social Development Canada are available end-to-end online. 11 are available online, and 17 are not available online.</description>
     </item>
     
     <item>
@@ -255,7 +259,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/ec/</guid>
-      <description>31% of the services provided by Environment and Climate Change Canada are available end-to-end online. 13 are available online, and 29 are not available online.</description>
+      <description>19% of the services provided by Environment and Climate Change Canada are available end-to-end online. 8 are available online, and 34 are not available online.</description>
     </item>
     
     <item>
@@ -300,7 +304,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/dfo/</guid>
-      <description>75% of the services provided by Fisheries and Oceans Canada are available end-to-end online. 47 are available online, and 16 are not available online.</description>
+      <description>5% of the services provided by Fisheries and Oceans Canada are available end-to-end online. 3 are available online, and 60 are not available online.</description>
     </item>
     
     <item>
@@ -309,7 +313,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/gac/</guid>
-      <description>55% of the services provided by Global Affairs Canada are available end-to-end online. 12 are available online, and 10 are not available online.</description>
+      <description>27% of the services provided by Global Affairs Canada are available end-to-end online. 6 are available online, and 16 are not available online.</description>
     </item>
     
     <item>
@@ -318,7 +322,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/hc/</guid>
-      <description>56% of the services provided by Health Canada are available end-to-end online. 40 are available online, and 32 are not available online.</description>
+      <description>3% of the services provided by Health Canada are available end-to-end online. 2 are available online, and 70 are not available online.</description>
     </item>
     
     <item>
@@ -336,7 +340,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/ircc/</guid>
-      <description>29% of the services provided by Immigration, Refugees and Citizenship Canada are available end-to-end online. 21 are available online, and 51 are not available online.</description>
+      <description>28% of the services provided by Immigration, Refugees and Citizenship Canada are available end-to-end online. 20 are available online, and 52 are not available online.</description>
     </item>
     
     <item>
@@ -345,7 +349,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/iaac/</guid>
-      <description>73% of the services provided by Impact Assessment Agency of Canada are available end-to-end online. 8 are available online, and 3 are not available online.</description>
+      <description>55% of the services provided by Impact Assessment Agency of Canada are available end-to-end online. 6 are available online, and 5 are not available online.</description>
     </item>
     
     <item>
@@ -354,7 +358,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/isc/</guid>
-      <description>66% of the services provided by Indigenous Services Canada are available end-to-end online. 57 are available online, and 30 are not available online.</description>
+      <description>9% of the services provided by Indigenous Services Canada are available end-to-end online. 8 are available online, and 79 are not available online.</description>
     </item>
     
     <item>
@@ -363,7 +367,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/infrastructure/</guid>
-      <description>91% of the services provided by Infrastructure Canada are available end-to-end online. 10 are available online, and 1 are not available online.</description>
+      <description>0% of the services provided by Infrastructure Canada are available end-to-end online. 0 are available online, and 11 are not available online.</description>
     </item>
     
     <item>
@@ -372,7 +376,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/ic/</guid>
-      <description>43% of the services provided by Innovation, Science and Economic Development Canada are available end-to-end online. 20 are available online, and 26 are not available online.</description>
+      <description>30% of the services provided by Innovation, Science and Economic Development Canada are available end-to-end online. 14 are available online, and 32 are not available online.</description>
     </item>
     
     <item>
@@ -408,7 +412,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/forces/</guid>
-      <description>56% of the services provided by National Defence are available end-to-end online. 5 are available online, and 4 are not available online.</description>
+      <description>22% of the services provided by National Defence are available end-to-end online. 2 are available online, and 7 are not available online.</description>
     </item>
     
     <item>
@@ -417,7 +421,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/nfb/</guid>
-      <description>50% of the services provided by National Film Board are available end-to-end online. 1 are available online, and 1 are not available online.</description>
+      <description>0% of the services provided by National Film Board are available end-to-end online. 0 are available online, and 2 are not available online.</description>
     </item>
     
     <item>
@@ -435,7 +439,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/nsira/</guid>
-      <description>100% of the services provided by National Security and Intelligence Review Agency Secretariat are available end-to-end online. 1 are available online, and 0 are not available online.</description>
+      <description>0% of the services provided by National Security and Intelligence Review Agency Secretariat are available end-to-end online. 0 are available online, and 1 are not available online.</description>
     </item>
     
     <item>
@@ -444,7 +448,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/nrcan/</guid>
-      <description>73% of the services provided by Natural Resources Canada are available end-to-end online. 22 are available online, and 8 are not available online.</description>
+      <description>47% of the services provided by Natural Resources Canada are available end-to-end online. 14 are available online, and 16 are not available online.</description>
     </item>
     
     <item>
@@ -453,7 +457,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/nserc/</guid>
-      <description>100% of the services provided by Natural Sciences and Engineering Research Council of Canada are available end-to-end online. 6 are available online, and 0 are not available online.</description>
+      <description>83% of the services provided by Natural Sciences and Engineering Research Council of Canada are available end-to-end online. 5 are available online, and 1 are not available online.</description>
     </item>
     
     <item>
@@ -471,7 +475,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/osfi/</guid>
-      <description>50% of the services provided by Office of the Superintendent of Financial Institutions Canada are available end-to-end online. 3 are available online, and 3 are not available online.</description>
+      <description>0% of the services provided by Office of the Superintendent of Financial Institutions Canada are available end-to-end online. 0 are available online, and 6 are not available online.</description>
     </item>
     
     <item>
@@ -498,7 +502,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/pmprb/</guid>
-      <description>100% of the services provided by Patented Medicine Prices Review Board Canada are available end-to-end online. 1 are available online, and 0 are not available online.</description>
+      <description>0% of the services provided by Patented Medicine Prices Review Board Canada are available end-to-end online. 0 are available online, and 1 are not available online.</description>
     </item>
     
     <item>
@@ -516,7 +520,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/pco/</guid>
-      <description>100% of the services provided by Privy Council Office are available end-to-end online. 5 are available online, and 0 are not available online.</description>
+      <description>20% of the services provided by Privy Council Office are available end-to-end online. 1 are available online, and 4 are not available online.</description>
     </item>
     
     <item>
@@ -525,7 +529,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/phac/</guid>
-      <description>58% of the services provided by Public Health Agency of Canada are available end-to-end online. 7 are available online, and 5 are not available online.</description>
+      <description>8% of the services provided by Public Health Agency of Canada are available end-to-end online. 1 are available online, and 11 are not available online.</description>
     </item>
     
     <item>
@@ -552,7 +556,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/psc/</guid>
-      <description>82% of the services provided by Public Service Commission of Canada are available end-to-end online. 9 are available online, and 2 are not available online.</description>
+      <description>73% of the services provided by Public Service Commission of Canada are available end-to-end online. 8 are available online, and 3 are not available online.</description>
     </item>
     
     <item>
@@ -561,7 +565,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/pwgsc/</guid>
-      <description>53% of the services provided by Public Services and Procurement Canada are available end-to-end online. 9 are available online, and 8 are not available online.</description>
+      <description>29% of the services provided by Public Services and Procurement Canada are available end-to-end online. 5 are available online, and 12 are not available online.</description>
     </item>
     
     <item>
@@ -570,7 +574,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/rcmp/</guid>
-      <description>63% of the services provided by Royal Canadian Mounted Police are available end-to-end online. 10 are available online, and 6 are not available online.</description>
+      <description>13% of the services provided by Royal Canadian Mounted Police are available end-to-end online. 2 are available online, and 14 are not available online.</description>
     </item>
     
     <item>
@@ -588,7 +592,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/sshrc/</guid>
-      <description>100% of the services provided by Social Sciences and Humanities Research Council of Canada are available end-to-end online. 6 are available online, and 0 are not available online.</description>
+      <description>50% of the services provided by Social Sciences and Humanities Research Council of Canada are available end-to-end online. 3 are available online, and 3 are not available online.</description>
     </item>
     
     <item>
@@ -615,7 +619,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/nbc/</guid>
-      <description>100% of the services provided by The National Battlefields Commission are available end-to-end online. 6 are available online, and 0 are not available online.</description>
+      <description>50% of the services provided by The National Battlefields Commission are available end-to-end online. 3 are available online, and 3 are not available online.</description>
     </item>
     
     <item>
@@ -624,7 +628,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/tc/</guid>
-      <description>32% of the services provided by Transport Canada are available end-to-end online. 32 are available online, and 68 are not available online.</description>
+      <description>1% of the services provided by Transport Canada are available end-to-end online. 1 are available online, and 99 are not available online.</description>
     </item>
     
     <item>
@@ -642,7 +646,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/tbs/</guid>
-      <description>75% of the services provided by Treasury Board of Canada Secretariat are available end-to-end online. 6 are available online, and 2 are not available online.</description>
+      <description>63% of the services provided by Treasury Board of Canada Secretariat are available end-to-end online. 5 are available online, and 3 are not available online.</description>
     </item>
     
     <item>
@@ -651,7 +655,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://end-to-end-services.github.io/gc/vac/</guid>
-      <description>59% of the services provided by Veterans Affairs Canada are available end-to-end online. 16 are available online, and 11 are not available online.</description>
+      <description>56% of the services provided by Veterans Affairs Canada are available end-to-end online. 15 are available online, and 12 are not available online.</description>
     </item>
     
     <item>
