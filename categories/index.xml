@@ -5,10 +5,6 @@
     <link>https://end-to-end-services.github.io/categories/</link>
     <description>Recent content in Categories on How many government services are available online end-to-end?</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://end-to-end-services.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://end-to-end-services.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
